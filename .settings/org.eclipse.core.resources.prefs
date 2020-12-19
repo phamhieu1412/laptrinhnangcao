@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/dao/FileDAO.java=UTF-8
+encoding//src/dao/KhachHangDAO.java=UTF-8
+encoding//src/dao/LoaiSanPhamDAO.java=UTF-8
+encoding//src/dao/PublisherDAO.java=UTF-8
+encoding//src/dao/SanPhamDAO.java=UTF-8
+encoding//src/filter/SecurityFilter.java=UTF-8
